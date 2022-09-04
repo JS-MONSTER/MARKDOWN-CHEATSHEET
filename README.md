@@ -1,12 +1,7 @@
 # MARKDOWN-CHEATSHEET
 
-[![Lâm](https://res.cloudinary.com/practicaldev/image/fetch/s--JiaQlatS--/c_fill,f_auto,fl_progressive,h_50,q_auto,w_50/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/486887/e66c748e-0a45-4a55-8c51-268e7e6ac269.jpeg)](https://dev.to/hoanganhlam)
 
-[Lâm](https://dev.to/hoanganhlam)
 
-Posted on Jun 12, 2021
-
-## Markdown Cheat Sheet
 
 A quick reference to the Markdown syntax. Overview. This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements.
 
